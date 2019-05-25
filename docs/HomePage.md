@@ -1,5 +1,3 @@
-Java后端技术交流群(限工作一年及以上，架构视频免费领取) ：[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-869815609-red.svg)](https://jq.qq.com/?_wv=1027&k=5QqyxIx) 
-
 点击订阅[Java面试进阶指南](https://xiaozhuanlan.com/javainterview?rel=javaguide)(专为Java面试方向准备)。[为什么要弄这个专栏?](https://shimo.im/./9BJjNsNg7S4dCnz3/)
 
 <h1 align="center">Java 学习/面试指南</h1>
@@ -7,13 +5,6 @@ Java后端技术交流群(限工作一年及以上，架构视频免费领取) �
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
 	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
 </a>
-</p>
-<h2 align="center">Special Sponsors</h2>
-<p align="center">
-<a href="https://coding.net/?utm_source=JavaGuide" target="_blank">
-  <img src="http://pqrlmrv7w.bkt.clouddn.com/img/2019-4/006rNwoDgy1g2dw5gau7nj30eg02vwfr.jpg"/>
- </a>
-</p>
 
 ## Java
 
@@ -40,10 +31,12 @@ Java后端技术交流群(限工作一年及以上，架构视频免费领取) �
 
 ### JVM
 
-* [Java内存区域](./java/jvm/Java内存区域.md)
-* [JVM垃圾回收](./java/jvm/JVM垃圾回收.md)
-* [JDK 监控和故障处理工具](./java/jvm/JDK监控和故障处理工具总结.md)
-* [《深入理解Java虚拟机》第2版学习笔记](./java/Java虚拟机（jvm）.md)
+* [一 Java内存区域](./java/jvm/Java内存区域.md)
+* [二 JVM垃圾回收](./java/jvm/JVM垃圾回收.md)
+* [三 JDK 监控和故障处理工具](./java/jvm/JDK监控和故障处理工具总结.md)
+* [四 类文件结构](./java/jvm/类文件结构.md)
+* [五 类加载过程](./java/jvm/类加载过程.md)
+* [六 类加载器](./java/jvm/类加载器.md)
 
 ### I/O
 
@@ -125,10 +118,11 @@ Java后端技术交流群(限工作一年及以上，架构视频免费领取) �
 
 ### 数据通信
 
-- [数据通信(RESTful、RPC、消息队列)相关知识点总结](./system-design/data-communication/数据通信(RESTful、RPC、消息队列).md)
-- [Dubbo 总结：关于 Dubbo 的重要知识点](./system-design/data-communication/dubbo.md)
+- [数据通信(RESTful、RPC、消息队列)相关知识点总结](./system-design/data-communication/summary.md)
+- [Dubbo 总结：关于 Dubbo 的重要知识点](./system-design/data-communication/Dubbo.md)
 - [消息队列总结](./system-design/data-communication/message-queue.md)
-- [RabbitMQ 的重要概念以及安装](./system-design/data-communication/rabbitmq.md)
+- [RabbitMQ 入门](./system-design/data-communication/RabbitMQ.md)
+- [RocketMQ的几个简单问题与答案](./system-design/data-communication/RocketMQ-Questions.md)
 
 ### 网站架构
 
@@ -180,7 +174,6 @@ Java后端技术交流群(限工作一年及以上，架构视频免费领取) �
 ### Github榜单
 
 - [Java 项目月榜单](./github-trending/JavaGithubTrending.md)
-
 
 ***
 
